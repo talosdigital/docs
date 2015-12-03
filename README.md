@@ -14,9 +14,7 @@ This document contains information for Collaborators of the Talos
 projects regarding maintaining the code, documentation and issues.
 
 Collaborators should be familiar with the guidelines for new
-contributors in [CONTRIBUTING.md](./CONTRIBUTING.md) and also
-understand the project governance model as outlined in
-[GOVERNANCE.md](./GOVERNANCE.md).
+contributors in this document and also understand the project governance model as outlined in [GOVERNANCE.md](./GOVERNANCE.md).
 
 ## Issues and Pull Requests
 
