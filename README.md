@@ -4,11 +4,11 @@
 
 * [Issues and Pull Requests](#issues-and-pull-requests)
 * [Accepting Modifications](#accepting-modifications)
- - [Involving the TC](#involving-the-tc)
+ - [Involving the TC (Technical Committee)](#involving-the-tc)
 * [Landing Pull Requests](#landing-pull-requests)
  - [Technical HOWTO](#technical-howto)
  - [I Just Made a Mistake](#i-just-made-a-mistake)
- - [Ready](#ready)
+* [Ready](#ready)
 
 This document contains information for Collaborators of the Talos
 projects regarding maintaining the code, documentation and issues.
@@ -233,3 +233,4 @@ Ask yourself the following questions:
 - Who accepts my code?
 - Who takes responsibility of my code?
 - How long do I have to wait to get a collaborator response.
+- When do I have to use PR-URL or Fixes
